@@ -11,7 +11,7 @@ There really are only a handful of simple steps.
 First, make sure that Node.js is installed on your machine in order to run our code. If you do not have Node.js installed, visit their downloads page and install the latest long-term supported version.
 
 ## Submitting your own Contributions 🎉
-push your branch into github and make a pull request. Make sure to document your changes clearly in the body and title of the pull request.
+Push your branch into github and make a pull request. Make sure to document your changes clearly in the body and title of the pull request.
 
 
 
