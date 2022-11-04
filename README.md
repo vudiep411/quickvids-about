@@ -1,8 +1,3 @@
-<!-- # [`acmcsuf.com`][demo_url] 🐘 -->
-
-> Official website of CSUF's ACM club.
-
-
 ## Develop [👩‍💻][figma_design]
 
 > 💡 This project runs on Node.js; [install the latest long-term support version][node_download].
@@ -12,8 +7,8 @@ Then, run `npm start` to spin up the [development server][dev_server].
 
 ## Contributing 🤝
 
-If you're interested in contributing to this project, I'd recommend checking out the [`CONTRIBUTING.md`](CONTRIBUTING.md) document.
----
+<p>If you're interested in contributing to this project, I'd recommend checking out the [`CONTRIBUTING.md`](CONTRIBUTING.md) document.</p>
+
 
 [node_download]: https://nodejs.org/en/download/
 [github_action_deploy]: .github/workflows/deploy.yaml
