@@ -7,7 +7,8 @@ Then, run `npm start` to spin up the [development server][dev_server].
 
 ## Contributing 🤝
 
-<p>If you're interested in contributing to this project, I'd recommend checking out the [`CONTRIBUTING.md`](CONTRIBUTING.md) document.</p>
+If you're interested in contributing to this project, I'd recommend checking out the [`CONTRIBUTING.md`](CONTRIBUTING.md) document.
+
 
 
 [node_download]: https://nodejs.org/en/download/
