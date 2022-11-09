@@ -30,7 +30,7 @@ First, make sure that Node.js is installed on your machine in order to run our c
   
 ## Submitting your own Contributions 🎉
 
-Push your branch into github and make a pull request. Make sure to document your changes clearly in the body and title of the pull request.
+Push your branch into github and make a pull request. Make sure to document your changes clearly in the body and title of the pull request. (DO NOT work directly on main branch)
 
 Example of a good pull request: [fix/673][pr]
 
