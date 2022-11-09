@@ -1,9 +1,12 @@
+import { Container } from '@mui/material'
 import React from 'react'
 import './help.css'
 
 const Help = () => {
   return (
-    <div>Help</div>
+    <Container>
+      Help
+    </Container>
   )
 }
 

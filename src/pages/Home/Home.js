@@ -4,8 +4,8 @@ import './home.css'
 const Home = () => {
   return (
     <div>
-      <Container maxWidth='md'>
-         
+      <Container maxWidth='lg'>
+         Home
 
       </Container>
     </div>
