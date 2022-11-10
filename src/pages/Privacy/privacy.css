@@ -1,0 +1,55 @@
+div.slide-right {
+    width: 100%;
+    overflow: hidden;
+}
+
+div.slide-right h4 {
+    animation: 2s slide-right;
+}
+  
+@keyframes slide-right {
+    from {
+      margin-left: -90%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+}
+
+div.slide-left {
+    width: 100%;
+    overflow: hidden;
+}
+
+div.slide-left h5 {
+    animation: 2s slide-left;
+}
+  
+@keyframes slide-left {
+    from {
+      margin-left: 300%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.mockimg {
+    height: 60%;
+    width: 60%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
