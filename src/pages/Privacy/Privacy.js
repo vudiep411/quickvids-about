@@ -10,7 +10,7 @@ const Privacy = () => {
   return (
     <Container maxWidth={size}>
       <div className='slide-right'>
-        <Typography variant='h4'>Keeping Quickvids a safe and supportive place</Typography>
+        <Typography variant='h4'>Keeping Quickvids a safe place</Typography>
       </div>
       <div className='image-container'>
         <img className="mockimg" src={mock} alt="img"/>
