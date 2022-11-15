@@ -2,6 +2,7 @@
 <p align="center">This is the landing page for the <a href='https://quick-vids-app.vercel.app/'>Quickvids</a> web application. For more information  about Quickvids, visit <a href="https://github.com/vudiep411/QuickVids-App">quickvids-github</a> for more information and source code</p>
 
 ## Author
+Group: VF <br/>
 Vu Diep vdiep8@csu.fullerton.edu<br/>
 Frank Salgado<br/>
 
