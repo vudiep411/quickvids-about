@@ -4,7 +4,7 @@ import React from 'react'
 const About = () => {
   return (
     <Container>
-        About
+        <p>fuck you</p>
     </Container>
   )
 }
