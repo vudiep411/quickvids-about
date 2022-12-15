@@ -5,7 +5,7 @@ import Contact from './pages/Contact/Contact'
 import Help from './pages/Help/Help'
 import Privacy from './pages/Privacy/Privacy'
 import Navbar from './components/Navbar';
-import Footer from './components/Footer'
+// import Footer from './components/Footer'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {

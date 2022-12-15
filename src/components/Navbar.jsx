@@ -16,7 +16,7 @@ import { useNavigate } from 'react-router-dom';
 
 const Navbar = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
-  const navItems = ['Home', 'About', 'Contact', 'Help', 'Privacy'];
+  const navItems = ['Home', 'Contact', 'Help', 'Privacy'];
   const drawerWidth = 240;
   const navigate = useNavigate()
   const handleDrawerToggle = () => {
